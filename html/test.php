@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 header("Content-Type:text/html;charset=utf-8");
 /**
+ * 我试试能不能推上去
  * Created by PhpStorm.
  * User: fanji
  * Date: 2018/2/18
